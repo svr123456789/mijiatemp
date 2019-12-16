@@ -19,7 +19,7 @@
     <string name="action_save">Sauvegarder</string>
     <string name="title_pref_db_save_period">Intervalle de mise à jour de la base de données</string>
 
-    <string name="title_pref_start_on_boot">Démarrage du travail en arrière-plan après le lancement de l'application</string>
+    <string name="title_pref_start_on_boot">Démarrage du travail en arrière-plan après le lancement de l\'application</string>
     <string name="title_pref_keep_service_alive">Garder activer.</string>
     <string name="summary_pref_keep_service_alive">Maintenir le service actif</string>
 
@@ -34,7 +34,7 @@
 
     <string name="title_pref_battery">Optimisation de la batterie</string>
     <string name="summary_pref_battery_en">Activé (le travail peut être arrêté en arrière-plan)</string>
-    <string name="summary_pref_battery_dis">Désactivé (l'application ne doit pas être arrêtée en arrière-plan)</string>
+    <string name="summary_pref_battery_dis">Désactivé (l\'application ne doit pas être arrêtée en arrière-plan)</string>
     <string name="title_pref_background">Travail en arrière-plan</string>
 
     <string name="title_pref_service_notif_prio">Priorité de notification</string>
@@ -46,25 +46,25 @@
 
     <string name="title_pref_working_background">Travail en arrière-plan</string>
 
-    <string name="title_pref_widget_refresh_period">Widget refresh interval</string>
-    <string name="appwidget_configure_instructions">Please select the device you would like to show in the widget</string>
-    <string name="saved">Saved</string>
-    <!--string name="hint_device_name">Device name</string-->
+    <string name="title_pref_widget_refresh_period">Intervalle de rafraîchissement du widget</string>
+    <string name="appwidget_configure_instructions">Veuillez sélectionner l\'appareil que vous souhaitez afficher dans le widget</string>
+    <string name="saved">Sauvegardé</string>
+    <!--string name="hint_device_name">Nom de l'appareil</string-->
     <string name="short_batt">batt=</string>
     <string name="short_humidity">hum=</string>
     <string name="short_temperature">temp=</string>
-    <string name="title_pref_bt_scan_mode">Bluetooth scan mode</string>
-    <string name="device">Device</string>
-    <string name="devices">Devices</string>
+    <string name="title_pref_bt_scan_mode">Mode de scan par Bluetooth</string>
+    <string name="device">Appareil</string>
+    <string name="devices">Appareils</string>
     <string name="short_second">sec</string>
     <string name="short_minute">min</string>
-    <string name="now">Now</string>
-    <string name="action_date">Date range</string>
-    <string name="reset">Reset</string>
-    <string name="title_range">Date range selector</string>
-    <string name="no_range_selected">There isn\'t selected date range</string>
-    <string name="title_device_visibility">Device visibility</string>
-    <string name="summary_device_visibility">Device visibility in the list</string>
+    <string name="now">Maintenant</string>
+    <string name="action_date">Période de temps</string>
+    <string name="reset">Réinitialiser</string>
+    <string name="title_range">Sélecteur d\'une plage de dates</string>
+    <string name="no_range_selected">Il n\'y a pas de plage de dates sélectionnée</string>
+    <string name="title_device_visibility">Visibilité d\'appareils</string>
+    <string name="summary_device_visibility">Visibilité des appareils dans la liste</string>
     <string name="warn_optimized">Currently the app background usage is optimized by the system. In this state the background working could stop but you can disable the optimization.</string>
     <string name="cancel">Cancel</string>
     <string name="period_all">Interval not set</string>
