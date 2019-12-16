@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="pref_bt_scan_mode_entries">
+        <item>Opportuniste</item>
+        <item>Faible puissance</item>
+        <item>Équilibré</item>
+        <item>Faible latence</item>
+    </string-array>
+
+</resources>

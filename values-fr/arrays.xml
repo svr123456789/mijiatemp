@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="pref_db_save_period_entries">
+        <item>1 minute (défaut)</item>
+        <item>2 minutes</item>
+        <item>3 minutes</item>
+        <item>5 minutes</item>
+        <item>10 minutes</item>
+        <item>15 minutes</item>
+        <item>30 minutes</item>
+        <item>1 heure</item>
+    </string-array>
+
+    <string-array name="pref_service_notif_prio_entries">
+        <item>Min</item>
+        <item>Faible</item>
+        <item>défaut</item>
+        <item>Élevée</item>
+        <item>Max</item>
+    </string-array>
+
+    <string-array name="pref_widget_refresh_period_entries">
+        <item>Immédiatement</item>
+        <item>1 minute (défaut)</item>
+        <item>2 minutes</item>
+        <item>3 minutes</item>
+        <item>5 minutes</item>
+        <item>10 minutes</item>
+        <item>15 minutes</item>
+        <item>30 minutes</item>
+        <item>1 heure</item>
+    </string-array>
+
+
+    <string-array name="pref_bt_scan_mode_entries">
+        <item>Faible puissance</item>
+        <item>Équilibré</item>
+        <item>Faible latence</item>
+    </string-array>
+
+    <string-array name="periods">
+        <item>Défaut</item>
+        <item>Moyenne horaire</item>
+        <item>Moyenne journalière</item>
+        <item>Moyenne hebdomadaire</item>
+        <item>Moyenne mensuelle</item>
+        <item>Moyenne annuelle</item>
+    </string-array>
+
+    <string-array name="pref_themes_entries">
+        <item>Lumineux</item>
+        <item>Sombre</item>
+        <item>Noir</item>
+    </string-array>
+
+    <string-array name="pref_alert_threshold_entries">
+        <item>1 minute</item>
+        <item>2 minutes</item>
+        <item>3 minutes</item>
+        <item>5 minutes (défaut)</item>
+        <item>10 minutes</item>
+        <item>15 minutes</item>
+        <item>30 minutes</item>
+        <item>1 heure</item>
+    </string-array>
+
+</resources>
